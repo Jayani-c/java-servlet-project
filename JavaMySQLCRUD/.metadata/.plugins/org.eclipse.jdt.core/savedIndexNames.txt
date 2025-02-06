@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\exe\java-servlet-project\JavaMySQLCRUD\.metadata\.plugins\org.eclipse.jdt.core
+1142477101.index
+2001773697.index
+3357147205.index

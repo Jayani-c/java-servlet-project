@@ -5,8 +5,8 @@ import java.sql.SQLException;
 
 public class DBConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/crud_db";
-    private static final String USER = "root"; // Change if needed
-    private static final String PASSWORD = ""; // Enter your MySQL password
+    private static final String USER = "root";
+    private static final String PASSWORD = "jayani123";
 
     public static Connection getConnection() {
         Connection conn = null;
